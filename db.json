@@ -1,0 +1,96 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "code": "BO-0001",
+      "title": "Sách học lập trình",
+      "category": "Công nghệ",
+      "date": "01/09/2024",
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "code": "BO-0002",
+      "title": "Lịch sử thế giới",
+      "category": "Lịch sử",
+      "date": "05/08/2024",
+      "quantity": 5
+    },
+    {
+      "code": "BO-0003",
+      "title": "frfer",
+      "category": "Công nghệ",
+      "date": "27/9/2024",
+      "quantity": 10,
+      "id": 3
+    },
+    {
+      "code": "BO-0004",
+      "title": "ergtg",
+      "category": "Công nghệ",
+      "date": "27/9/2024",
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "code": "BO-0005",
+      "title": "ứdfsvdsdf",
+      "category": "Công nghệ",
+      "date": "27/9/2024",
+      "quantity": 10,
+      "id": 5
+    },
+    {
+      "code": "BO-0006",
+      "title": "etrt",
+      "category": "Công nghệ",
+      "date": "27/9/2024",
+      "quantity": 10,
+      "id": 6
+    },
+    {
+      "code": "BO-0006",
+      "title": "dsvfdv",
+      "category": "Công nghệ",
+      "date": "27/9/2024",
+      "quantity": 1,
+      "id": 7
+    },
+    {
+      "code": "BO-0008",
+      "title": "jjjjjj",
+      "category": "Công nghệ",
+      "date": "26/9/2024",
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "code": "BO-0009",
+      "title": "rfrv",
+      "category": "Công nghệ",
+      "date": "26/9/2024",
+      "quantity": 1,
+      "id": 9
+    },
+    {
+      "code": "BO-0090",
+      "title": "kkkk",
+      "category": "Công nghệ",
+      "date": "26/9/2024",
+      "quantity": 1,
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Công nghệ",
+      "description": "Các sách về công nghệ thông tin."
+    },
+    {
+      "id": 2,
+      "name": "Lịch sử",
+      "description": "Sách lịch sử các thời kỳ."
+    }
+  ]
+}
